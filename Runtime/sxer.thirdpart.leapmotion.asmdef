@@ -1,0 +1,19 @@
+{
+    "name": "sxer.thirdpart.leapmotion",
+    "references": [
+        "GUID:cec9848704c49724192ff47f9b3e9156",
+        "GUID:4981bec6c09bf544fb599786b6e14ea7",
+        "GUID:dba0504bd56f224468f91b4ddeba1eee",
+        "GUID:3a12b97a7afaf6b47bfe53cf1f942886",
+        "GUID:2ee0542102ac1084e8d9a910885c1e81"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
