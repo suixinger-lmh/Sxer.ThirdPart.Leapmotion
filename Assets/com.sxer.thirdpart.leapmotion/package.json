@@ -1,0 +1,9 @@
+{
+	"name": "com.sxer.thirdpart.leapmotion",
+	"displayName": "TPLeapmotion",
+	"description": "Use Leapmotion.",
+	"version": "0.0.1",
+	"unity": "2019.4",
+	"dependencies": {
+	}
+}
